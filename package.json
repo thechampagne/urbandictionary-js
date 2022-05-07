@@ -1,0 +1,24 @@
+{
+  "name": "urbandic",
+  "version": "1.0.0",
+  "description": "Urban Dictionary API client for JavaScript",
+  "main": "src/urbandic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechampagne/urbandictionary-js.git"
+  },
+  "keywords": [
+    "api",
+    "urbandic",
+    "urbandictionary"
+  ],
+  "author": "XXIV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thechampagne/urbandictionary-js/issues"
+  },
+  "homepage": "https://github.com/thechampagne/urbandictionary-js#readme"
+}
